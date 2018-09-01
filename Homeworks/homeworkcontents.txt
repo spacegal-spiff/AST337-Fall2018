@@ -1,0 +1,10 @@
+## Jupyter Exercises ("Homework 0")
+1. Exercises in the Jupyter notebook environment
+2. Plotting exercises using matplotlib 
+
+## Homework 1
+1. Problems from Chromey 
+2. Derivations: Stefan-Boltzmann, Planck function, and masses of stars 
+3. Reading: Ch. 1 (Light)
+4. Reading: First sections of Ch. 3 (Place, Time, and Motion)
+
