@@ -12,3 +12,9 @@ Contents of the Labs are as follows:
 3. Working with pandas series
 4. Making scatterplots
 5. Discussion of the HR diagram
+
+## Lab 2 - Astronomical Data and Functions
+1. Working with data from VizieR
+2. Python functions and pandas dataframes
+3. More on scatterplots
+4. Discussion of color-magnitude diagrams
