@@ -18,3 +18,13 @@ Contents of the Labs are as follows:
 2. Python functions and pandas dataframes
 3. More on scatterplots
 4. Discussion of color-magnitude diagrams
+
+## Lab 3 - Observation Planning
+1. Using iObserve
+2. Working with the VizieR database
+3. Writing an observing proposal
+
+## Lab 4 - Reading and Displaying FITS files
+1. Working with images in DS9
+2. Reading in .fits with the astropy package
+3. Displaying images with imshow
