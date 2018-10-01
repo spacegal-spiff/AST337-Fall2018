@@ -8,3 +8,23 @@
 3. Reading: Ch. 1 (Light)
 4. Reading: First sections of Ch. 3 (Place, Time, and Motion)
 
+## Homework 2
+1. Problems from Chromey
+2. Programming Exercise: Open and Globular Cluster Locations
+3. Reading: Ch. 5 (Optics for Astronomy)
+4. Reading: Sections 6.1-6.2 (Telescope Mounts and Reflecting Optics) 
+
+
+## Homework 3
+1. Observing Proposal
+	* Introduction
+	* Target Properties
+	* Observing Plan
+2. Reading: Ch. 7 of Birney, Gonzalez, & Oesper (Effects of the Atmosphere)
+3. Reading: Sections 6.3-6.5 in Chromey (Telescopes, Ground-based Observing, Atmospheric Blur)
+
+## Homework 4
+1. Problems from Chromey and Birney
+2. Programming/DS9 Exercise: Verify the plate scale of the Smith telescope
+3. Reading: Sections 7.1-7.4 (Atoms and Photoconductors)
+4. Reading: Sections 8.1-8.2 (Detectors and CCDs)
